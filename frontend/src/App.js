@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <div>
-      <h1>Welcome To ProShop</h1>
+      <h1>App</h1>
     </div>
   )
 }
